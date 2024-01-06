@@ -11,6 +11,18 @@ The design approach concentrates on creating an intelligent automation system fo
 
 ### Block diagram
 ![image](https://github.com/jabdithanmai/Smart-room-Automation-ideas/assets/116477854/23fb962a-5bfb-43de-a8ac-c308ad458fc1)
+### Component specifications
+Nodemcu ESP8266,
+motor driven Fan,
+led lights/bulbs,
+Flame sensor,
+buzzer,
+BLINK App,
+Arduino software and board,
+servo motor, switch,laptop and
+mobile
+
+
 
 
 
