@@ -1,5 +1,5 @@
 # Smart-room-Automation-idea
-Designing of automation implementation idea for a room containing an fan, lights and a fire alert system.
+Designing of automation implementation idea for a room containing fans, lights and a fire alert system.
 
 ## Design Approach
 Potential areas for automation within the room considering the Energy efficiency,User convenience and Safety enhancements are:
@@ -26,7 +26,7 @@ mobile
 The above data flow diagrams works where the microcontroller based system automatically controls the room lights.The aim  is to turn on or off the lights in a room and fans by using blynk.The implementation is done using  NodeMCU and LED.The second part is that using a flame sensor the fire alert system is designed and buzzer is setup along with LED's.Since the job of the circuit is to turn on the light and fans or off them using the blynk app. Hence, this acts as an Automatic Room using electronic devices like laptops and mobile phones.
 ###### Special features/advantages of the design
 Will automatically turn on or off the lights,fans in a room by operating with blink app,
-Fire alert system provided to detect fire which causes serious complications,Home automation is provided smart ways using Node mcu which is easy and efficient to use with less cost and also using a single Node MCU we can control the lights,fans in a room by operating with blink app and also d##etect fire by using infrared flame sensor smartly.Use of Nodemcu ESP8266: Built-in Wi-Fi Connectivity,Cost-Effectiveness,Compact Size,Open-Source Hardware and Software,Low Power Consumption,Support for Various Programming Languages and  Cloud Integration.The digital World we are living in allows us to use different technologies to automatically perform certain tasks. Such automation is very useful in certain areas like energy consumption, reducing human efforts, improving standard of living.
+Fire alert system provided to detect fire which causes serious complications,Home automation is provided smart ways using Node mcu which is easy and efficient to use with less cost and also using a single Node MCU we can control the lights,fans in a room by operating with blink app and also d##etect fire by using infrared flame sensor smartly.Use of Nodemcu ESP8266: Built-in Wi-Fi Connectivity,CostEffectiveness,Compact Size,Open-Source Hardware and Software,Low Power Consumption,Support for Various Programming Languages and  Cloud Integration.The digital World we are living in allows us to use different technologies to automatically perform certain tasks. Such automation is very useful in certain areas like energy consumption, reducing human efforts, improving standard of living.
 Reduction in energy consumption,Increased comfort and convenience through automated actions,Enhanced safety through fire alert integration,Improved productivity by automating routine tasks and Potential cost savings on energy bills and appliance maintenance.
 
 
